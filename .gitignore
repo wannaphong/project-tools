@@ -112,3 +112,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+gen-code2docx/generated_doc.docx
